@@ -9,7 +9,7 @@ Delete Orders Extension allow easily deleting orders from your store with just c
 2. Enter following commands to install module:
 
     ```bash
-    composer require faonni/module-orderdelete
+    composer require faonni/module-order-delete
     ```
    Wait while dependencies are updated.
 

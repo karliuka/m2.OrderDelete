@@ -1,5 +1,5 @@
 {
-    "name": "faonni/module-orderdelete",
+    "name": "faonni/module-order-delete",
     "description": "Delete Orders Extension allow easily deleting orders from your store with just clicks.",
     "type": "magento2-module",
 	"version": "2.0.1",
